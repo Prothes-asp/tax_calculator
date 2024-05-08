@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">Tax Calculation</string>
+    <string name="des_splash">All together we will pay taxes\nBuild a golden Bangladesh</string>
+
+
+
+    <!--================== E-tin Grid Start Here ==================-->
+    <string name="e_tin_title1">E-TIN প্রাপ্তির নিয়ম (Rgistration/Re-registration)</string>
+    <string name="e_tin_title1_des">
+        করদাতা হিসেবে রেজিস্ট্রেশন প্রক্রিয়া দ্রুত ও সহজতর করতে জাতীয় রাজস্ব বোর্ড ই-টিআইএন (e-TIN) রেজিস্ট্রেশন পদ্ধতি প্রবর্তন করেছে।
+        এ পদ্ধতিতে কয়েকটি সহজ ধাপ পেরোনোর  মাধ্যমে আপনি পেতে পারেন ১২ ডিজিটের একটি নতুন টিআইএন ।
+        বর্তমানে যাদের টিআইএন   আছে, তাঁদেরকেও নতুন পদ্ধতির টিআইএন এর জন্য রি-রেজিস্ট্রেশন করতে হবে।
+        এক্ষেত্রে জাতীয় পরিচয়পত্র, মোবাইল ফোন নম্বর ও কোম্পানীর RJSC এর নিবন্ধন নম্বরপ্রয়োজন হয়।
+        নতুন পদ্ধতিতে টিআইএন রেজিস্ট্রেশন ও রি-রেজিস্ট্রেশনের শুরুতে প্রত্যেককে প্রথমেঅ্যাকাউন্ট তৈরী করতে হবে ৷
+        অ্যাকাউন্ট তৈরীর নিয়ম নিম্নরূপঃ      www.incometax.gov.bd ওয়েব সাইটে প্রবেশ করুন ।
+        হোমপেজের Register বাটনে ক্লিক করলে “রেজিস্ট্রেশন” ফরম ওপেন হবে ।
+        ফরমের নির্ধারিত শূন্যস্থানগুলো পূরণ শেষে Register বাটনে ক্লিক করুন ।
+        ফরমে প্রদানকৃত আপনার মুঠোফোন নম্বরে তাৎক্ষনিকভাবে একটি কোড পৌছে যাবে ।
+        পর্দায় প্রদর্শিত ডায়ালগ বক্সে মুঠোফোনে প্রেরণকৃত কোডটি প্রদান করুন। এরপর Register বাটনে ক্লিক করলেই
+        পর্দায় দেখতে পাবেন ‘Welcome To Taxpayer’s Identification Number (TIN) Registration/Re-registration’ .
+    </string>
+    <string name="e_tin_title2">
+        বাংলাদেশী নাগরিকের জন্য টিআইএন রেজিস্ট্রেশন ও রি-রেজিস্ট্রেশনের নিয়মঃ
+    </string>
+    <string name="e_tin_title2_des">
+        TIN Application মেনুতে ক্লিক করুন । এবার Registration/Re-registration ফরমে প্রদর্শিত শূন্যস্থানগুলো পূরণ করে Go to Next চাপুন।
+        Basic Information ফরমে প্রয়োজনীয় তথ্য দিয়ে শূন্যস্থানগুলো পুরণ করুন এবং বাটনে Go to Next চাপুন।
+        Final Preview তে ফরমে প্রদর্শিত আপনার দেয়া তথ্যগুলো সঠিক আছে কি না, তা শেষবারের মতো যাচাই করুন|
+        সবকিছু ঠিক থাকলে Final Preview এর নীচে চেক বক্সে টিক চিহ্ন দিন|
+        এরপর Submit Application বাটনে ক্লিক করলেই রেজিস্ট্রেশন /রি-রেজিস্ট্রেশনকারী, নতুন ১২ ডিজিটের টিআইএন পাবেন ।
+        তবে প্রাপ্ত ও অপ্রাপ্তবয়স্ক আবেদনকারী, যার জাতীয় পরিচিতি নম্বর নেই এবং যিনি পাসপোর্টের মাধ্যমে রেজিস্ট্রেশন এবং রি-রেজিস্ট্রেশন করতে চান,
+        তিনি একটি Ticket পাবেন। Ticket প্রিন্ট করে তাতে উল্লিখিত নিয়ম অনুসরণ করে বর্ণিত ঠিকানায় যোগাযোগ করতে হবে।
+    </string>
+    <string name="e_tin_title3">
+        লিমিটেড কোম্পানিসহ রেজিস্টার অব জয়েন্ট স্টক কোম্পানিজ এন্ড ফার্মস (RJSC) এ রেজিস্ট্রেশনকৃত
+        এবং অ-রেজিস্ট্রেশনকৃত ফার্মের ক্ষেত্রে টিআইএন রেজিস্ট্রেশন ও রি-রেজিস্ট্রেশনের নিয়মঃ
+    </string>
+    <string name="e_tin_title3_des">
+        RJSC তে নিবন্ধিত কোম্পানি/ ফার্ম এর টিআইএন রেজিস্ট্রেশনের জন্য করদাতা প্রতিষ্ঠানের নাম, পদবী, মোবাইল নম্বর
+        ও ই-মেইল ঠিকানা এবং ফার্মের প্রত্যেক অংশীদারের নবপ্রবর্তিত ১২ ডিজিটের টিআইএন। RJSC তে রেজিস্ট্রেশনকৃত নয়,
+        এরূপ ফার্মের টিআইএন রেজিস্ট্রেশনের জন্য ক্ষমতাপ্রাপ্ত ব্যাক্তির নাম, পদবী, মোবাইল নম্বর, ফ্যাক্স ও ই-মেইল ঠিকানা
+        এবং ফার্মের প্রত্যেক অংশীদারের নবপ্রবর্তিত ১২ ডিজিটের টিআইএন। সকল প্রক্রিয়া সম্পন্ন হলে আবেদনকারী কোম্পানি/ ফার্ম নতুন টিআইএন সম্বলিত সার্টিফিকেট পাবেন।
+    </string>
+    <!--E-TIN Video Url-->
+    <string name="etin_vedio_url">https://www.youtube.com/embed/xtonTk7ShiY</string>
+    <!--================== E-tin Grid End Here ==================-->
+
+
+    <!--================== Tax Pay Guidline Grid Start Here ==================-->
+    <string name="tax_pay_title">
+        কীভাবে Tax পেমেন্ট করতে\nহয় ভিডিও দেখুন ।
+    </string>
+    <string name="tax_payment_vedio_url">https://www.youtube.com/embed/CJtHGbgAKUk</string>
+    <!--================== Tax Pay Guidline Grid End Here ==================-->
+
+
+    <!--For Grid Items-->
+    <string-array name="grid_items_name">
+        <item>e-TIN</item>
+        <item>Tax Calculator</item>
+        <item>Spot Assessment</item>
+        <item>T-return Guidline</item>
+        <item>Taxes Zone</item>
+        <item>Tax Pay Guidline</item>
+    </string-array>
+
+
+    <!--================== Spot Assessment Grid Start Here ==================-->
+    <string name="spot_title">For individuals,The income tax rates for the Fiscal year 2024-2025 were as follows:</string>
+    <string name="spot_details">
+        For the first BDT 3,30,000: 0% tax.
+        \nFrom 3,30,001 to 4,80,000 BDT : 10% tax.
+        \nFrom 4,80,001 to 7,20,000 BDT : 15% tax.
+        \nFrom 7,20,001 to 12,00,000 BDT : 20% tax.
+        \nAbove 12,00,000 BDT : 25% tax.
+    </string>
+    <!--================== Spot Assessment Grid End Here ==================-->
+
+
+
+
+    <!--================== Tax Calculator Grid Start Here ==================-->
+    <string name="tx_cl_item1">Basic Salary : </string>
+    <string name="tx_cl_item2">House Rent :</string>
+    <string name="tx_cl_item3">Agricultural\nIncome :</string>
+    <string name="tx_cl_item4">Business\nIncome :</string>
+    <string name="tx_cl_item5">Others Income :</string>
+    <string name="tx_cl_item6">Festival Bonus :</string>
+    <string name="tx_cl_item7">Gold (ভরি) :</string>
+
+    <string name="tx_cl_hint1">Yearly Salary</string>
+    <string name="tx_cl_hint2">House Rent</string>
+    <string name="tx_cl_hint3">Ag. Income</string>
+    <string name="tx_cl_hint4">Bus. Income</string>
+    <string name="tx_cl_hint5">Others Income</string>
+    <string name="tx_cl_hint6">Festival Bonus</string>
+    <string name="tx_cl_hint7">Gold (ভরি)</string>
+
+    <string name="calculation_tax">Calculation Tax</string>
+    <string name="tax_display1">Income</string>
+    <string name="tax_display2">Tax</string>
+    <!--================== Tax Calculator Grid End Here ==================-->
+
+    <string name="tax_return_guidline">https://www.deshrupantor.com/460775/how-to-submit-income-tax-return-online</string>
+
+</resources>
